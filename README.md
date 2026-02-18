@@ -151,8 +151,8 @@ Stores:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd <project>
+git clone https://github.com/om2137/navigate-code
+cd navigate-code
 ```
 
 ---
